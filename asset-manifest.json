@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/dev-sig/static/css/main.073c9b0a.css",
-    "main.js": "/dev-sig/static/js/main.cebe364c.js",
+    "main.css": "/dev-sig/static/css/main.8178cf91.css",
+    "main.js": "/dev-sig/static/js/main.d170d675.js",
     "static/js/787.8109d490.chunk.js": "/dev-sig/static/js/787.8109d490.chunk.js",
-    "static/media/logo.svg": "/dev-sig/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/graff_2020.pdf": "/dev-sig/static/media/graff_2020.3348ef25c803a4e656b9.pdf",
+    "static/media/letg.png": "/dev-sig/static/media/letg.f032c6b2206a1858fc03.png",
+    "static/media/coexya.png": "/dev-sig/static/media/coexya.07cbe76e0622124c50ba.png",
+    "static/media/cci.png": "/dev-sig/static/media/cci.b03a72983fcf1873b8a5.png",
+    "static/media/univ_caen.jpg": "/dev-sig/static/media/univ_caen.b38520b1597af453202d.jpg",
+    "static/media/backGroundThesis.jpg": "/dev-sig/static/media/backGroundThesis.3552597beeb1b3daf127.jpg",
     "index.html": "/dev-sig/index.html",
-    "main.073c9b0a.css.map": "/dev-sig/static/css/main.073c9b0a.css.map",
-    "main.cebe364c.js.map": "/dev-sig/static/js/main.cebe364c.js.map",
+    "main.8178cf91.css.map": "/dev-sig/static/css/main.8178cf91.css.map",
+    "main.d170d675.js.map": "/dev-sig/static/js/main.d170d675.js.map",
     "787.8109d490.chunk.js.map": "/dev-sig/static/js/787.8109d490.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.cebe364c.js"
+    "static/css/main.8178cf91.css",
+    "static/js/main.d170d675.js"
   ]
 }
