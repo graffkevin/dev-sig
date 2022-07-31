@@ -4,6 +4,7 @@ import Cci from '../screens/experiences/cci/Cci';
 import Coexya from '../screens/experiences/coexya/Coexya';
 
 import Parcours from "../screens/parcours/Parcours";
+import ContactMeForm from "../screens/contact/ContactMe";
 
 const routes = [
   {
@@ -25,6 +26,10 @@ const routes = [
   { 
     path: "/parcours",
     component: <Parcours />
+  },
+  {
+    path: "/contact",
+    component: <ContactMeForm />
   },
   { 
     path: "*", component: <Home /> 

@@ -60,3 +60,7 @@ opacity: 1;
 opacity: 0;
 transition: opacity 150ms linear;
 }
+
+.offsetContent {
+  margin-top: 3.5em;
+}

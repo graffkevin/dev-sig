@@ -23,7 +23,7 @@ export const itemsEvent = [
         {
             id: 3,
             name: 'Coexya',
-            job: 'Architecte / Développeur SIG',
+            job: 'Architecte et développeur SIG',
             image: images.coexya,
             path: '/coexya',
             Component: Coexya
